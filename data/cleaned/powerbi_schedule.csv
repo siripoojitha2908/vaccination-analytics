@@ -1,0 +1,214 @@
+ISO_3_CODE,COUNTRYNAME,YEAR,SCHEDULE_RECORDS
+ABW,Aruba,2023,37
+AFG,Afghanistan,2023,24
+AGO,Angola,2023,27
+AIA,Anguilla,2023,42
+ALB,Albania,2023,30
+AND,Andorra,2023,31
+ARE,United Arab Emirates,2023,54
+ARG,Argentina,2023,65
+ARM,Armenia,2023,47
+ATG,Antigua and Barbuda,2023,39
+AUS,Australia,2023,40
+AUT,Austria,2023,26
+AZE,Azerbaijan,2023,26
+BDI,Burundi,2023,34
+BEL,Belgium,2023,53
+BEN,Benin,2023,24
+BFA,Burkina Faso,2023,39
+BGD,Bangladesh,2023,27
+BGR,Bulgaria,2023,40
+BHR,Bahrain,2023,75
+BHS,Bahamas,2023,45
+BIH,Bosnia and Herzegovina,2023,25
+BLR,Belarus,2023,46
+BLZ,Belize,2023,51
+BMU,Bermuda,2023,64
+BOL,Bolivia (Plurinational State of),2023,53
+BRA,Brazil,2023,68
+BRB,Barbados,2023,46
+BRN,Brunei Darussalam,2023,22
+BTN,Bhutan,2023,35
+BWA,Botswana,2023,47
+CAF,Central African Republic,2023,21
+CAN,Canada,2023,60
+CHE,Switzerland,2023,40
+CHL,Chile,2023,37
+CHN,China,2023,28
+CIV,Côte d'Ivoire,2023,35
+CMR,Cameroon,2023,32
+COD,Democratic Republic of the Congo,2023,30
+COG,Congo,2023,25
+COK,Cook Islands,2023,23
+COL,Colombia,2023,67
+COM,Comoros,2023,22
+CPV,Cabo Verde,2023,31
+CRI,Costa Rica,2023,38
+CUB,Cuba,2023,49
+CUW,Curaçao,2019,24
+CYM,Cayman Islands,2023,57
+CYP,Cyprus,2023,49
+CZE,Czechia,2023,20
+DEU,Germany,2023,78
+DJI,Djibouti,2023,26
+DMA,Dominica,2023,45
+DNK,Denmark,2023,33
+DOM,Dominican Republic,2023,59
+DZA,Algeria,2023,21
+ECU,Ecuador,2023,63
+EGY,Egypt,2023,57
+ERI,Eritrea,2023,41
+ESP,Spain,2023,62
+EST,Estonia,2023,39
+ETH,Ethiopia,2023,34
+FIN,Finland,2023,39
+FJI,Fiji,2023,39
+FRA,France,2023,44
+FSM,Micronesia (Federated States of),2023,27
+GAB,Gabon,2023,16
+GBR,United Kingdom of Great Britain and Northern Ireland,2023,48
+GEO,Georgia,2023,36
+GHA,Ghana,2023,39
+GIN,Guinea,2023,18
+GMB,Gambia,2023,46
+GNB,Guinea-Bissau,2023,37
+GNQ,Equatorial Guinea,2023,31
+GRC,Greece,2023,80
+GRD,Grenada,2023,40
+GTM,Guatemala,2023,49
+GUM,Guam,2023,59
+GUY,Guyana,2023,37
+HKG,"China, Hong Kong SAR",2023,33
+HND,Honduras,2023,63
+HRV,Croatia,2023,22
+HTI,Haiti,2023,22
+HUN,Hungary,2023,23
+IDN,Indonesia,2023,39
+IND,India,2023,38
+IRL,Ireland,2023,43
+IRN,Iran (Islamic Republic of),2023,47
+IRQ,Iraq,2023,47
+ISL,Iceland,2023,32
+ISR,Israel,2022,67
+ITA,Italy,2023,51
+JAM,Jamaica,2023,61
+JOR,Jordan,2023,38
+JPN,Japan,2023,37
+KAZ,Kazakhstan,2023,35
+KEN,Kenya,2023,42
+KGZ,Kyrgyzstan,2023,31
+KHM,Cambodia,2023,24
+KIR,Kiribati,2023,30
+KNA,Saint Kitts and Nevis,2023,25
+KOR,Republic of Korea,2023,62
+KWT,Kuwait,2023,50
+LAO,Lao People's Democratic Republic,2023,38
+LBN,Lebanon,2023,32
+LBR,Liberia,2023,31
+LBY,Libya,2023,31
+LCA,Saint Lucia,2023,32
+LKA,Sri Lanka,2023,28
+LSO,Lesotho,2023,31
+LTU,Lithuania,2023,39
+LUX,Luxembourg,2023,39
+LVA,Latvia,2023,46
+MAC,"China, Macao SAR",2023,55
+MAR,Morocco,2019,34
+MCO,Monaco,2023,41
+MDA,Republic of Moldova,2023,39
+MDG,Madagascar,2023,22
+MDV,Maldives,2023,41
+MEX,Mexico,2023,38
+MHL,Marshall Islands,2023,37
+MKD,North Macedonia,2023,25
+MLI,Mali,2023,27
+MLT,Malta,2023,31
+MMR,Myanmar,2023,22
+MNE,Montenegro,2023,24
+MNG,Mongolia,2023,30
+MNP,Northern Mariana Islands,2023,50
+MOZ,Mozambique,2023,37
+MRT,Mauritania,2023,24
+MSR,Montserrat,2023,27
+MUS,Mauritius,2023,29
+MWI,Malawi,2023,44
+MYS,Malaysia,2023,31
+NAM,Namibia,2023,39
+NCL,New Caledonia,2023,25
+NER,Niger,2023,28
+NGA,Nigeria,2023,29
+NIC,Nicaragua,2023,46
+NIU,Niue,2023,27
+NLD,Netherlands (Kingdom of the),2023,25
+NOR,Norway,2023,26
+NPL,Nepal,2023,22
+NRU,Nauru,2021,22
+NZL,New Zealand,2023,40
+OMN,Oman,2023,42
+PAK,Pakistan,2023,24
+PAN,Panama,2023,66
+PER,Peru,2023,40
+PHL,Philippines,2023,25
+PLW,Palau,2023,30
+PNG,Papua New Guinea,2023,31
+POL,Poland,2023,45
+PRK,Democratic People's Republic of Korea,2023,23
+PRT,Portugal,2023,59
+PRY,Paraguay,2023,71
+PSE,"occupied Palestinian territory, including east Jerusalem",2023,35
+PYF,French Polynesia,2023,23
+QAT,Qatar,2023,44
+ROU,Romania,2023,31
+RUS,Russian Federation,2023,126
+RWA,Rwanda,2023,24
+SAU,Saudi Arabia,2023,45
+SDN,Sudan,2023,23
+SEN,Senegal,2023,38
+SGP,Singapore,2023,23
+SLB,Solomon Islands,2023,21
+SLE,Sierra Leone,2023,36
+SLV,El Salvador,2023,58
+SMR,San Marino,2023,57
+SOM,Somalia,2023,23
+SRB,Serbia,2023,38
+SSD,South Sudan,2023,20
+STP,Sao Tome and Principe,2023,32
+SUR,Suriname,2023,54
+SVK,Slovakia,2023,25
+SVN,Slovenia,2023,50
+SWE,Sweden,2023,33
+SWZ,Eswatini,2023,39
+SXM,Sint Maarten (Dutch part),2019,20
+SYC,Seychelles,2023,35
+SYR,Syrian Arab Republic,2023,38
+TCA,Turks and Caicos Islands,2023,37
+TCD,Chad,2023,25
+TGO,Togo,2023,25
+THA,Thailand,2023,50
+TJK,Tajikistan,2023,27
+TKL,Tokelau,2023,16
+TKM,Turkmenistan,2023,32
+TLS,Timor-Leste,2023,31
+TON,Tonga,2023,25
+TTO,Trinidad and Tobago,2023,39
+TUN,Tunisia,2023,32
+TUR,Türkiye,2023,20
+TUV,Tuvalu,2023,28
+TZA,United Republic of Tanzania,2023,33
+UGA,Uganda,2023,34
+UKR,Ukraine,2023,30
+URY,Uruguay,2023,59
+USA,United States of America,2023,93
+UZB,Uzbekistan,2023,29
+VCT,Saint Vincent and the Grenadines,2023,24
+VEN,Venezuela (Bolivarian Republic of),2023,63
+VGB,British Virgin Islands,2023,38
+VNM,Viet Nam,2023,23
+VUT,Vanuatu,2023,19
+WLF,Wallis and Futuna,2019,12
+WSM,Samoa,2023,33
+XKX,Kosovo (in accordance with UN Security Council resolution 1244 (1999)),2023,23
+YEM,Yemen,2023,40
+ZAF,South Africa,2023,31
+ZMB,Zambia,2023,37
+ZWE,Zimbabwe,2023,38
